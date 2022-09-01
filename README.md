@@ -1,1 +1,1 @@
-Task 3.The long format
+Create a script that switches the current user to the user betty
